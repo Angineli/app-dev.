@@ -2,7 +2,7 @@
 My first repository
 # Friends (TV Series)
 
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.max.com%2Fshows%2Ffriends%2F52dae4c7-2ab1-4bb9-ab1c-8100fd54e2f9&psig=AOvVaw1N-ff1L-rbH0p6ynlNzVR8&ust=1715566911560000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMChovWGh4YDFQAAAAAdAAAAABAE 
 
 **Friends** is a popular American television sitcom created by **David Crane** and **Marta Kauffman**. The show aired on **NBC** from **September 22, 1994**, to **May 6, 2004**, spanning a total of **10 seasons** with **236 episodes**.
 
