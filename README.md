@@ -36,6 +36,5 @@ The series follows the lives of six friends living in **New York City**: Rachel,
 - The show's iconic coffee shop, **Central Perk**, became synonymous with "Friends."
 - **Jennifer Aniston**'s "Rachel" haircut became a popular trend in the 1990s.
 
-## Conclusion
 "Friends" remains a beloved sitcom that continues to attract new fans and holds a special place in the hearts of those who grew up with the series. Its enduring legacy is a testament to its relatable characters and timeless humor.
 
