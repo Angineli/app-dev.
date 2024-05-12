@@ -18,12 +18,7 @@ My first repository
 ## Plot Summary
 The series follows the lives of six friends living in **New York City**: Rachel, Monica, Phoebe, Joey, Chandler, and Ross. It explores their relationships, romantic endeavors, career challenges, and everyday misadventures. The show's humor, memorable catchphrases, and strong character dynamics made it a cultural phenomenon.
 
-## Key Themes
-- **Friendship and Love**: The series emphasizes the importance of friends as chosen family and delves into romantic relationships among the characters.
-- **Comedy**: Known for its witty dialogues, quirky scenarios, and memorable one-liners.
-- **Coming of Age**: The characters transition from their 20s to their 30s, navigating career changes and adult responsibilities.
-
-## Cultural Impact
+## Impact
 **Friends** has had a significant influence on popular culture. It introduced iconic phrases like _"How you doin'?"_ and _"We were on a break!"_. The show remains relevant through syndication, streaming platforms, and merchandise.
 
 ### Awards and Recognition
